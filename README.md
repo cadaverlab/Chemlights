@@ -1,57 +1,66 @@
- #########   ########   ########     ########   ###      ###  ##########  ########
-##########  ##########  ##########  ##########  ###      ###  ##########  ##########
-###         ###    ###  ###    ###  ###    ###   ###    ###   ###         ###    ###
-###         ###    ###  ###    ###  ###    ###   ###    ###   ########    ##########
-###         ##########  ###    ###  ##########    ###  ###    ########    ########
-###         ##########  ###    ###  ##########    ###  ###    ###         ###  ###
-##########  ###    ###  ##########  ###    ###     ######     ##########  ###   ###
- #########  ###    ###  ########    ###    ###      ####      ##########  ###    ###
+```text
+ ▄████▄    ▄▄▄       ▓█████▄   ▄▄▄       ██▒   █▓  ▓█████  ██▀███  
+▒██▀ ▀█   ▒████▄     ▒██▀ ██▌ ▒████▄     ▓██░   █▒ ▓█   ▀  ▓██ ▒ ██▒
+▒▓█    ▄  ▒██  ▀█▄   ░██   █▌ ▒██  ▀█▄   ▓██  █▒░  ▒███    ▓██ ░▄█ ▒
+▒▓▓▄ ▄██▒ ░██▄▄▄▄██  ░▓█▄   ▌ ░██▄▄▄▄██  ▒██ █░░   ▒▓█  ▄  ▒██▀▀█▄ 
+▒ ▓███▀ ░  ▓█   ▓██▒ ░▒████▓   ▓█   ▓██▒  ▒▀█░  ░  ░▒████▒ ░██▓ ▒██▒
+░ ░▒ ▒  ░  ▒▒   ▓▒█░  ▒▒▓  ▒   ▒▒   ▓▒█░   ░ ▐░    ░░ ▒░ ░ ░ ▒▓ ░▒▓░
+  ░  ▒      ▒   ▒▒ ░  ░ ▒  ▒    ▒   ▒▒ ░   ░ ░░     ░ ░  ░   ░▒ ░ ▒░
+░           ░   ▒     ░ ░  ░    ░   ▒        ░░       ░       ░░   ░ 
+            ░   ░       ░       ░   ░         ░                ░    
+```
 
-CHEMLIGHTS for Ostranauts
-By Cadaver. MIT licence.
+# CHEMLIGHTS for Ostranauts
+**By Cadaver** | [![Game: Ostranauts](https://img.shields.io/badge/Game-Ostranauts-blue.svg)](#)
 
-Phoebus-brand chemical lights in cyan, blue, red and green, sold in bundles
-of five at station supply kiosks, and found in derelicts and police kits.
+> Phoebus-brand chemical lights in cyan, blue, red, and green. Sold in bundles of five at station supply kiosks, and found in derelicts and kits.
 
-Crack one and it lights up fully within seconds. It stays bright for a while,
-then fades over 30 minutes of game time, goes out, and crumbles to ash that
-is gone two minutes later. Hold it to light your way, or drop it to mark a
-route through a dark derelict.
+Hold one to light your way, or drop them to mark a safe route through a dark derelict.
 
-You can eat one. Don't. It makes you sick to your stomach and gives you a dose
-of radiation, sometimes enough for radiation sickness.
+---
 
+## Features
 
-INSTALL
+* **Dynamic Lighting:** Crack one and it lights up fully within seconds.
+* **Immersive Lifespan:** Stays bright for a while, then fades over 30 minutes of game time, goes out, and crumbles and disappears two minutes later.
+* **Ambient Glow:** Light shines through backpacks and pockets at reduced brightness. *Will add more immersive states later.
 
-There are two parts. The data mod adds the items. The plugin makes them fade
-and burn out. Install both.
+> [!CAUTION]
+> **You can eat it. Don't. But you can**
 
-1. The data mod
-   Workshop: subscribe, then enable ChemLights in the game's Mods menu.
-   By hand: copy this folder to Ostranauts_Data/Mods/ChemLights and add
-   "ChemLights" to aLoadOrder in Ostranauts_Data/Mods/loading_order.json.
+---
 
-2. The plugin (needs BepInEx 5 installed in the game folder)
-   Copy BepInEx/plugins/ChemLights/ChemLights.dll from this folder into
-   BepInEx/plugins/ChemLights/ in the game folder. The workshop can't do
-   this step for you.
+## Installation
 
-To get some, open the console (backtick key) and type
-   spawn ItmChemLightBundle01Cyan
-or Blue, Red, Green in place of Cyan.
+This mod requires two parts to function properly: the data mod (adds the items) and the plugin (handles fading and burning out mechanics). **Install both.**
 
+### 1. Data Mod
+* **Steam Workshop:** Subscribe to the mod, then enable `ChemLights` in the game's Mods menu.
+* **Manual Install:** Copy the `ChemLights` folder to `Ostranauts_Data/Mods/ChemLights` and add `"ChemLights"` to the `aLoadOrder` array in `Ostranauts_Data/Mods/loading_order.json`.
 
-USING THEM
+### 2. Plugin
+*Requires [BepInEx 5](https://github.com/BepInEx/BepInEx) installed in your game folder.*
+* Copy `ChemLights.dll` from this mod's `BepInEx/plugins/ChemLights/` folder into your game's `BepInEx/plugins/ChemLights/` directory.
+* *Note: The Steam Workshop cannot install this .dll file for you automatically.*
 
-Bundle      Open it like a pill bottle and drag the sticks out first. If you
-            crack one inside the bundle, it falls at your feet. An empty
-            bundle turns into trash.
-Crack       Right-click a sealed stick and pick Crack.
-Equip       Hold a lit stick to light the way in its colour.
-Carry       A lit stick in a pocket or on a suit clip still glows, dimmer.
-            In your backpack it glows through, dimmer still.
-Drop        Drag it onto the floor next to you, or pick Drop.
-Eat         Works on any stick, even with your helmet on.
+> [!TIP]
+> **Console Spawning**  
+> Open the console (`` ` `` backtick key) and run:
+> ```bash
+> spawn ItmChemLightBundle01Cyan
+> ```
+> Replace `Cyan` with `Blue`, `Red`, or `Green` for other colors.
 
-Sealed sticks stack up to five, like pills.
+---
+
+## Interactions & Controls
+
+| Action | Description |
+| :--- | :--- |
+| **Bundle** | Open like a pill bottle and drag sticks out first. If you crack one inside the bundle, it drops to your feet. An empty bundle turns into trash. |
+| **Crack** | Right-click a sealed stick and select **Crack**. |
+| **Equip** | Hold a lit stick in your hands to fully illuminate the path in its color. |
+| **Carry** | Lit sticks in pockets or on suit clips still glow dimly. Sticks inside a backpack glow through at minimal brightness. |
+| **Drop** | Drag onto the floor next to your character, or right-click and select **Drop**. |
+| **Eat** | Can be consumed on any stick, even with a helmet on. Strongly not recommended. |
+| **Stacking** | Sealed sticks stack up to five in your inventory, matching pills. |
