@@ -26,7 +26,8 @@
       "IsCategoryTools=1.0x1",
       "StatBasePrice=1.0x8.0",
       "IsHandheld=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -66,7 +67,8 @@
       "IsLightSource=1.0x1.0",
       "StatGlowLife=1.0x1800",
       "StatBasePrice=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -151,7 +153,8 @@
       "IsCategoryTools=1.0x1",
       "StatBasePrice=1.0x8.0",
       "IsHandheld=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -191,7 +194,8 @@
       "IsLightSource=1.0x1.0",
       "StatGlowLife=1.0x1800",
       "StatBasePrice=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -276,7 +280,8 @@
       "IsCategoryTools=1.0x1",
       "StatBasePrice=1.0x8.0",
       "IsHandheld=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -316,7 +321,8 @@
       "IsLightSource=1.0x1.0",
       "StatGlowLife=1.0x1800",
       "StatBasePrice=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -401,7 +407,8 @@
       "IsCategoryTools=1.0x1",
       "StatBasePrice=1.0x8.0",
       "IsHandheld=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],
@@ -441,7 +448,8 @@
       "IsLightSource=1.0x1.0",
       "StatGlowLife=1.0x1800",
       "StatBasePrice=1.0x1.0",
-      "IsPhoebus=1.0x1.0"
+      "IsPhoebus=1.0x1.0",
+      "IsClippable=1.0x1.0"
     ],
     "mapCondTolerance": [],
     "mapPoints": [],

@@ -1,7 +1,7 @@
 [
   {
     "strName": "HeldLChemLight01Cyan",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Cyan",
+    "strSlotImage": "paperdoll/held/bodyChemLight01CyanL",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -12,7 +12,7 @@
   },
   {
     "strName": "HeldRChemLight01Cyan",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Cyan",
+    "strSlotImage": "paperdoll/held/bodyChemLight01CyanR",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -23,7 +23,7 @@
   },
   {
     "strName": "HeldLChemLight01Blue",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Blue",
+    "strSlotImage": "paperdoll/held/bodyChemLight01BlueL",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -34,7 +34,7 @@
   },
   {
     "strName": "HeldRChemLight01Blue",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Blue",
+    "strSlotImage": "paperdoll/held/bodyChemLight01BlueR",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -45,7 +45,7 @@
   },
   {
     "strName": "HeldLChemLight01Red",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Red",
+    "strSlotImage": "paperdoll/held/bodyChemLight01RedL",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -56,7 +56,7 @@
   },
   {
     "strName": "HeldRChemLight01Red",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Red",
+    "strSlotImage": "paperdoll/held/bodyChemLight01RedR",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -67,7 +67,7 @@
   },
   {
     "strName": "HeldLChemLight01Green",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Green",
+    "strSlotImage": "paperdoll/held/bodyChemLight01GreenL",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,
@@ -78,7 +78,7 @@
   },
   {
     "strName": "HeldRChemLight01Green",
-    "strSlotImage": "paperdoll/held/bodyChemLight01Green",
+    "strSlotImage": "paperdoll/held/bodyChemLight01GreenR",
     "strSlotImageUnder": null,
     "strIASlot": null,
     "strIAUnslot": null,

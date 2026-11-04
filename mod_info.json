@@ -4,6 +4,6 @@
     "strAuthor": "Cadaver",
     "strGameVersion": "1.0.1.5",
     "strModVersion": "0.2.0",
-    "strNotes": "Chemical lights in cyan, blue, red and green, in bundles of five. Crack one and it is at full brightness within seconds, dims over 30 minutes of game time, then crumbles to ash and is gone. Hold it to light your way or set it down to mark a route. You can eat one; it is not food. Needs BepInEx 5 and the plugin in the mod folder (see README)."
+    "strNotes": "Chemical lights in cyan, blue, red and green, in bundles of five. Crack one and it is at full brightness within seconds, dims over 30 minutes of game time, then crumbles to ash and is gone. Hold it to light your way or set it down to mark a route. You can eat one; it is not food. Needs BepInEx 5 and the plugin in the mod folder (see README.txt)."
   }
 ]
