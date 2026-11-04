@@ -1,0 +1,227 @@
+[
+  {
+    "strName": "CONDChemLightL",
+    "aCOs": [
+      "IsCrewHandLLamp=1.0x3"
+    ],
+    "aLoots": [],
+    "strType": "condition"
+  },
+  {
+    "strName": "CONDChemLightLRemove",
+    "aCOs": [
+      "-IsCrewHandLLamp=1.0x3"
+    ],
+    "aLoots": [],
+    "strType": "condition"
+  },
+  {
+    "strName": "CONDChemLightR",
+    "aCOs": [
+      "IsCrewHandRLamp=1.0x3"
+    ],
+    "aLoots": [],
+    "strType": "condition"
+  },
+  {
+    "strName": "CONDChemLightRRemove",
+    "aCOs": [
+      "-IsCrewHandRLamp=1.0x3"
+    ],
+    "aLoots": [],
+    "strType": "condition"
+  },
+  {
+    "strName": "ItmChemLight01Cyan",
+    "aCOs": [
+      "ItmChemLight01Cyan=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01CyanLit",
+    "aCOs": [
+      "ItmChemLight01CyanLit=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLightBundle01Cyan",
+    "aCOs": [
+      "ItmChemLightBundle01Cyan=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Cyanx5",
+    "aCOs": [
+      "ItmChemLight01Cyan=1x5"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Blue",
+    "aCOs": [
+      "ItmChemLight01Blue=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01BlueLit",
+    "aCOs": [
+      "ItmChemLight01BlueLit=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLightBundle01Blue",
+    "aCOs": [
+      "ItmChemLightBundle01Blue=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Bluex5",
+    "aCOs": [
+      "ItmChemLight01Blue=1x5"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Red",
+    "aCOs": [
+      "ItmChemLight01Red=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01RedLit",
+    "aCOs": [
+      "ItmChemLight01RedLit=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLightBundle01Red",
+    "aCOs": [
+      "ItmChemLightBundle01Red=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Redx5",
+    "aCOs": [
+      "ItmChemLight01Red=1x5"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Green",
+    "aCOs": [
+      "ItmChemLight01Green=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01GreenLit",
+    "aCOs": [
+      "ItmChemLight01GreenLit=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLightBundle01Green",
+    "aCOs": [
+      "ItmChemLightBundle01Green=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Greenx5",
+    "aCOs": [
+      "ItmChemLight01Green=1x5"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLight01Ash",
+    "aCOs": [
+      "ItmChemLight01Ash=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "CONDChemLightEaten",
+    "aCOs": [
+      "Nausea=1.0x1",
+      "StatRad=1.0x600-1400"
+    ],
+    "aLoots": [],
+    "strType": "condition"
+  },
+  {
+    "strName": "ItmChemLight01Random",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLight01Cyan=0.25x1|ItmChemLight01Blue=0.25x1|ItmChemLight01Red=0.25x1|ItmChemLight01Green=0.25x1"
+    ],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmChemLightBundle01Random",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLightBundle01Cyan=0.25x1|ItmChemLightBundle01Blue=0.25x1|ItmChemLightBundle01Red=0.25x1|ItmChemLightBundle01Green=0.25x1"
+    ],
+    "strType": "item"
+  },
+  {
+    "strName": "ChemLightsMerge_ItmSupplyKiosk*Inv",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLightBundle01Random=1.0x2-5"
+    ],
+    "strType": "item"
+  },
+  {
+    "strName": "ChemLightsMerge_ItmRandomToolLoots",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLight01Random=0.1x1-3"
+    ],
+    "strType": "item"
+  },
+  {
+    "strName": "ChemLightsMerge_ItmRandomAirlockLoots",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLight01Random=0.12x1-2"
+    ],
+    "strType": "item"
+  },
+  {
+    "strName": "ChemLightsMerge_Itm*LEOStartLootItems",
+    "aCOs": [],
+    "aLoots": [
+      "ItmChemLightBundle01Random=0.5x1"
+    ],
+    "strType": "item"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "strName": "ItmChemLight01Cyan",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Cyan)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01Cyan",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightCrackCyan",
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "StatBasePrice=1.0x8.0",
+      "IsHandheld=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "strPortraitImg": "chemlights/ItmChemLight01Cyan",
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultL",
+      "heldR",
+      "HeldItmDefaultR"
+    ],
+    "nStackLimit": 5
+  },
+  {
+    "strName": "ItmChemLight01CyanLit",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Cyan, Lit)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01CyanLit",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsChemLightLit=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsLightSource=1.0x1.0",
+      "StatGlowLife=1.0x1800",
+      "StatBasePrice=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldLChemLight01Cyan",
+      "heldR",
+      "HeldRChemLight01Cyan"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLight01CyanLit"
+  },
+  {
+    "strName": "ItmChemLightBundle01Cyan",
+    "strNameShort": "ChemLights",
+    "strNameFriendly": "Phoebus ChemLights, Bundle of 5 (Cyan)",
+    "strDesc": "Five Phoebus ChemLights, shrink-wrapped together. Open it and take one out, or carry the lot.\n\nPhoebus sells them by the bundle because nobody has ever needed just one.",
+    "strItemDef": "ItmChemLightBundle01CyanEmpty",
+    "strType": "Item",
+    "strLoot": "ItmChemLight01Cyanx5",
+    "strContainerCT": "TIsFitContainerChemLightBundle",
+    "nContainerWidth": 1,
+    "nContainerHeight": 1,
+    "aInteractions": [
+      "Inventory",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLightBundle=1.0x1",
+      "IsContainer=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsFlexible=1.0x1",
+      "StatMass=1.0x0.01",
+      "StatBasePrice=1.0x2.0",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapGUIPropMaps": [
+      "Inventory"
+    ],
+    "mapAltItemDefs": [
+      "IsChemLight",
+      "ItmChemLightBundle01CyanFull"
+    ],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultSoftL",
+      "heldR",
+      "HeldItmDefaultSoftR"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLightBundle01CyanFull"
+  },
+  {
+    "strName": "ItmChemLight01Blue",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Blue)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01Blue",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightCrackBlue",
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "StatBasePrice=1.0x8.0",
+      "IsHandheld=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "strPortraitImg": "chemlights/ItmChemLight01Blue",
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultL",
+      "heldR",
+      "HeldItmDefaultR"
+    ],
+    "nStackLimit": 5
+  },
+  {
+    "strName": "ItmChemLight01BlueLit",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Blue, Lit)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01BlueLit",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsChemLightLit=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsLightSource=1.0x1.0",
+      "StatGlowLife=1.0x1800",
+      "StatBasePrice=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldLChemLight01Blue",
+      "heldR",
+      "HeldRChemLight01Blue"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLight01BlueLit"
+  },
+  {
+    "strName": "ItmChemLightBundle01Blue",
+    "strNameShort": "ChemLights",
+    "strNameFriendly": "Phoebus ChemLights, Bundle of 5 (Blue)",
+    "strDesc": "Five Phoebus ChemLights, shrink-wrapped together. Open it and take one out, or carry the lot.\n\nPhoebus sells them by the bundle because nobody has ever needed just one.",
+    "strItemDef": "ItmChemLightBundle01BlueEmpty",
+    "strType": "Item",
+    "strLoot": "ItmChemLight01Bluex5",
+    "strContainerCT": "TIsFitContainerChemLightBundle",
+    "nContainerWidth": 1,
+    "nContainerHeight": 1,
+    "aInteractions": [
+      "Inventory",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLightBundle=1.0x1",
+      "IsContainer=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsFlexible=1.0x1",
+      "StatMass=1.0x0.01",
+      "StatBasePrice=1.0x2.0",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapGUIPropMaps": [
+      "Inventory"
+    ],
+    "mapAltItemDefs": [
+      "IsChemLight",
+      "ItmChemLightBundle01BlueFull"
+    ],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultSoftL",
+      "heldR",
+      "HeldItmDefaultSoftR"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLightBundle01BlueFull"
+  },
+  {
+    "strName": "ItmChemLight01Red",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Red)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01Red",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightCrackRed",
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "StatBasePrice=1.0x8.0",
+      "IsHandheld=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "strPortraitImg": "chemlights/ItmChemLight01Red",
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultL",
+      "heldR",
+      "HeldItmDefaultR"
+    ],
+    "nStackLimit": 5
+  },
+  {
+    "strName": "ItmChemLight01RedLit",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Red, Lit)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01RedLit",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsChemLightLit=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsLightSource=1.0x1.0",
+      "StatGlowLife=1.0x1800",
+      "StatBasePrice=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldLChemLight01Red",
+      "heldR",
+      "HeldRChemLight01Red"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLight01RedLit"
+  },
+  {
+    "strName": "ItmChemLightBundle01Red",
+    "strNameShort": "ChemLights",
+    "strNameFriendly": "Phoebus ChemLights, Bundle of 5 (Red)",
+    "strDesc": "Five Phoebus ChemLights, shrink-wrapped together. Open it and take one out, or carry the lot.\n\nPhoebus sells them by the bundle because nobody has ever needed just one.",
+    "strItemDef": "ItmChemLightBundle01RedEmpty",
+    "strType": "Item",
+    "strLoot": "ItmChemLight01Redx5",
+    "strContainerCT": "TIsFitContainerChemLightBundle",
+    "nContainerWidth": 1,
+    "nContainerHeight": 1,
+    "aInteractions": [
+      "Inventory",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLightBundle=1.0x1",
+      "IsContainer=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsFlexible=1.0x1",
+      "StatMass=1.0x0.01",
+      "StatBasePrice=1.0x2.0",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapGUIPropMaps": [
+      "Inventory"
+    ],
+    "mapAltItemDefs": [
+      "IsChemLight",
+      "ItmChemLightBundle01RedFull"
+    ],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultSoftL",
+      "heldR",
+      "HeldItmDefaultSoftR"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLightBundle01RedFull"
+  },
+  {
+    "strName": "ItmChemLight01Green",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Green)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01Green",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightCrackGreen",
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "DropItemStack",
+      "PickupItem",
+      "PickupItemStack"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "StatBasePrice=1.0x8.0",
+      "IsHandheld=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "strPortraitImg": "chemlights/ItmChemLight01Green",
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultL",
+      "heldR",
+      "HeldItmDefaultR"
+    ],
+    "nStackLimit": 5
+  },
+  {
+    "strName": "ItmChemLight01GreenLit",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "Phoebus ChemLight (Green, Lit)",
+    "strDesc": "A Phoebus-brand chemical light. Snap the inner vial and it glows at once, then dims over about half an hour as the dye runs out. Once spent, the cheap tube goes brittle and crumbles away.\n\nEvery salvager carries a few. Most have tried eating one, exactly once.",
+    "strItemDef": "ItmChemLight01GreenLit",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [
+      "ACTChemLightEat",
+      "EquipItem",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLight=1.0x1",
+      "IsRigid=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "StatMass=1.0x0.05",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsChemLightLit=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsLightSource=1.0x1.0",
+      "StatGlowLife=1.0x1800",
+      "StatBasePrice=1.0x1.0",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldLChemLight01Green",
+      "heldR",
+      "HeldRChemLight01Green"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLight01GreenLit"
+  },
+  {
+    "strName": "ItmChemLightBundle01Green",
+    "strNameShort": "ChemLights",
+    "strNameFriendly": "Phoebus ChemLights, Bundle of 5 (Green)",
+    "strDesc": "Five Phoebus ChemLights, shrink-wrapped together. Open it and take one out, or carry the lot.\n\nPhoebus sells them by the bundle because nobody has ever needed just one.",
+    "strItemDef": "ItmChemLightBundle01GreenEmpty",
+    "strType": "Item",
+    "strLoot": "ItmChemLight01Greenx5",
+    "strContainerCT": "TIsFitContainerChemLightBundle",
+    "nContainerWidth": 1,
+    "nContainerHeight": 1,
+    "aInteractions": [
+      "Inventory",
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds": [
+      "IsChemLightBundle=1.0x1",
+      "IsContainer=1.0x1",
+      "IsHandheld=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsPocketable=1.0x1.0",
+      "IsFlexible=1.0x1",
+      "StatMass=1.0x0.01",
+      "StatBasePrice=1.0x2.0",
+      "StatDamageMax=1.0x2",
+      "IsCategoryTools=1.0x1",
+      "IsPhoebus=1.0x1.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapGUIPropMaps": [
+      "Inventory"
+    ],
+    "mapAltItemDefs": [
+      "IsChemLight",
+      "ItmChemLightBundle01GreenFull"
+    ],
+    "mapSlotEffects": [
+      "heldL",
+      "HeldItmDefaultSoftL",
+      "heldR",
+      "HeldItmDefaultSoftR"
+    ],
+    "strPortraitImg": "chemlights/ItmChemLightBundle01GreenFull"
+  },
+  {
+    "strName": "ItmChemLight01Ash",
+    "strNameShort": "ChemLight",
+    "strNameFriendly": "ChemLight (Spent)",
+    "strDesc": "A spent ChemLight, crumbled to grey flakes. It breaks down to nothing in a couple of minutes.",
+    "strItemDef": "ItmChemLight01Ash",
+    "strType": "Item",
+    "strLoot": null,
+    "aInteractions": [],
+    "aStartingConds": [
+      "IsChemLightAsh=1.0x1",
+      "StatMass=1.0x0.01",
+      "StatGlowLife=1.0x120",
+      "StatBasePrice=1.0x0.0"
+    ],
+    "mapCondTolerance": [],
+    "mapPoints": [],
+    "mapSlotEffects": [],
+    "strPortraitImg": "chemlights/ItmChemLight01Ash"
+  }
+]

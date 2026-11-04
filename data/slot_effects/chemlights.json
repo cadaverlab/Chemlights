@@ -1,0 +1,90 @@
+[
+  {
+    "strName": "HeldLChemLight01Cyan",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Cyan",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightL",
+    "strIAUnslotParents": "UNSLOTChemLightL",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldRChemLight01Cyan",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Cyan",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightR",
+    "strIAUnslotParents": "UNSLOTChemLightR",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldLChemLight01Blue",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Blue",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightL",
+    "strIAUnslotParents": "UNSLOTChemLightL",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldRChemLight01Blue",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Blue",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightR",
+    "strIAUnslotParents": "UNSLOTChemLightR",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldLChemLight01Red",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Red",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightL",
+    "strIAUnslotParents": "UNSLOTChemLightL",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldRChemLight01Red",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Red",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightR",
+    "strIAUnslotParents": "UNSLOTChemLightR",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldLChemLight01Green",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Green",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightL",
+    "strIAUnslotParents": "UNSLOTChemLightL",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  },
+  {
+    "strName": "HeldRChemLight01Green",
+    "strSlotImage": "paperdoll/held/bodyChemLight01Green",
+    "strSlotImageUnder": null,
+    "strIASlot": null,
+    "strIAUnslot": null,
+    "strIASlotParents": "SLOTChemLightR",
+    "strIAUnslotParents": "UNSLOTChemLightR",
+    "bWholeBody": true,
+    "mapMeshTextures": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "strName": "ChemLightCyan",
+    "strImg": "chemlights/ItmChemLight01CyanLitlit",
+    "strColor": "SignalCyan",
+    "fRadius": 4.0,
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName": "ChemLightBlue",
+    "strImg": "chemlights/ItmChemLight01BlueLitlit",
+    "strColor": "SignalBlue",
+    "fRadius": 4.0,
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName": "ChemLightRed",
+    "strImg": "chemlights/ItmChemLight01RedLitlit",
+    "strColor": "SignalRed",
+    "fRadius": 4.0,
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "strName": "ChemLightGreen",
+    "strImg": "chemlights/ItmChemLight01GreenLitlit",
+    "strColor": "SignalGreen",
+    "fRadius": 4.0,
+    "ptPos": {
+      "x": 0,
+      "y": 0
+    }
+  }
+]

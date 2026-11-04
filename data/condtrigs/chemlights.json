@@ -1,0 +1,56 @@
+[
+  {
+    "strName": "TIsChemLightUnlit",
+    "strCondName": "",
+    "fChance": 1.0,
+    "fCount": 1.0,
+    "aReqs": [
+      "IsChemLight"
+    ],
+    "aForbids": [
+      "IsChemLightLit"
+    ],
+    "aTriggers": [],
+    "bAND": true
+  },
+  {
+    "strName": "TIsFitContainerChemLightBundle",
+    "strCondName": "",
+    "fChance": 1.0,
+    "fCount": 1.0,
+    "aReqs": [
+      "IsChemLight"
+    ],
+    "aForbids": [
+      "IsChemLightLit"
+    ],
+    "aTriggers": [],
+    "bAND": true
+  },
+  {
+    "strName": "TCanEatChemLight",
+    "strCondName": "",
+    "fChance": 1.0,
+    "fCount": 1.0,
+    "aReqs": [
+      "IsHuman"
+    ],
+    "aForbids": [
+      "IsInCombat"
+    ],
+    "aTriggers": [],
+    "bAND": true
+  },
+  {
+    "strName": "TIsChemLightEdible",
+    "strCondName": "",
+    "fChance": 1.0,
+    "fCount": 1.0,
+    "aReqs": [
+      "IsChemLight"
+    ],
+    "aForbids": [],
+    "aTriggers": [],
+    "bAND": true
+  }
+]

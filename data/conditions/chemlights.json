@@ -1,0 +1,50 @@
+[
+  {
+    "strName": "IsChemLight",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "[us] is a ChemLight.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  },
+  {
+    "strName": "IsChemLightLit",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "[us] has been cracked and is glowing.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  },
+  {
+    "strName": "StatGlowLife",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "Game seconds [us] lasts: glowing, or as ash before it is gone.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  },
+  {
+    "strName": "IsChemLightBundle",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "[us] is a bundle of ChemLights; empty, the wrap is trash.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  },
+  {
+    "strName": "IsChemLightAsh",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "[us] is a spent ChemLight breaking down.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  },
+  {
+    "strName": "StatGlowStart",
+    "strNameFriendly": "",
+    "strColor": "Neutral",
+    "strDesc": "The in-game time [us] was cracked, or crumbled.",
+    "nDisplaySelf": 0,
+    "nDisplayOther": 0
+  }
+]

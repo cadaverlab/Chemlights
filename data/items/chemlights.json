@@ -1,0 +1,605 @@
+[
+  {
+    "strName": "ItmChemLight01Cyan",
+    "strImg": "chemlights/ItmChemLight01Cyan",
+    "strImgNorm": "chemlights/ItmChemLight01Cyann",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01CyanLit",
+    "strImg": "chemlights/ItmChemLight01CyanLit",
+    "strImgNorm": "chemlights/ItmChemLight01CyanLitn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [
+      "ChemLightCyan"
+    ],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01CyanFull",
+    "strImg": "chemlights/ItmChemLightBundle01CyanFull",
+    "strImgNorm": "chemlights/ItmChemLightBundle01CyanFulln",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01CyanEmpty",
+    "strImg": "chemlights/ItmChemLightBundle01CyanEmpty",
+    "strImgNorm": "chemlights/ItmChemLightBundle01CyanEmptyn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01Blue",
+    "strImg": "chemlights/ItmChemLight01Blue",
+    "strImgNorm": "chemlights/ItmChemLight01Bluen",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01BlueLit",
+    "strImg": "chemlights/ItmChemLight01BlueLit",
+    "strImgNorm": "chemlights/ItmChemLight01BlueLitn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [
+      "ChemLightBlue"
+    ],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01BlueFull",
+    "strImg": "chemlights/ItmChemLightBundle01BlueFull",
+    "strImgNorm": "chemlights/ItmChemLightBundle01BlueFulln",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01BlueEmpty",
+    "strImg": "chemlights/ItmChemLightBundle01BlueEmpty",
+    "strImgNorm": "chemlights/ItmChemLightBundle01BlueEmptyn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01Red",
+    "strImg": "chemlights/ItmChemLight01Red",
+    "strImgNorm": "chemlights/ItmChemLight01Redn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01RedLit",
+    "strImg": "chemlights/ItmChemLight01RedLit",
+    "strImgNorm": "chemlights/ItmChemLight01RedLitn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [
+      "ChemLightRed"
+    ],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01RedFull",
+    "strImg": "chemlights/ItmChemLightBundle01RedFull",
+    "strImgNorm": "chemlights/ItmChemLightBundle01RedFulln",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01RedEmpty",
+    "strImg": "chemlights/ItmChemLightBundle01RedEmpty",
+    "strImgNorm": "chemlights/ItmChemLightBundle01RedEmptyn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01Green",
+    "strImg": "chemlights/ItmChemLight01Green",
+    "strImgNorm": "chemlights/ItmChemLight01Greenn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01GreenLit",
+    "strImg": "chemlights/ItmChemLight01GreenLit",
+    "strImgNorm": "chemlights/ItmChemLight01GreenLitn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [
+      "ChemLightGreen"
+    ],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01GreenFull",
+    "strImg": "chemlights/ItmChemLightBundle01GreenFull",
+    "strImgNorm": "chemlights/ItmChemLightBundle01GreenFulln",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLightBundle01GreenEmpty",
+    "strImg": "chemlights/ItmChemLightBundle01GreenEmpty",
+    "strImgNorm": "chemlights/ItmChemLightBundle01GreenEmptyn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.02,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  },
+  {
+    "strName": "ItmChemLight01Ash",
+    "strImg": "chemlights/ItmChemLight01Ash",
+    "strImgNorm": "chemlights/ItmChemLight01Ashn",
+    "strImgDamaged": "",
+    "strDmgColor": "DamageTintNone",
+    "fZScale": 0.2,
+    "nCols": 1,
+    "aLights": [],
+    "aSocketAdds": [
+      "TILItemAdds"
+    ],
+    "aSocketForbids": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "TILItemForbids",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ],
+    "aSocketReqs": [
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank",
+      "Blank"
+    ]
+  }
+]
